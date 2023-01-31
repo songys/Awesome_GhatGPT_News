@@ -7,7 +7,7 @@ https://blog.atlaslabs.ai/chatgpt-concept/
 # 파라미터 사이즈 등 ChatGPT에 대한 이해를 도울 수 있는 뉴스
 https://n.news.naver.com/article/001/0013727174
 
-# 제프딘의 AI 모델의 크와 성능에 대한 비교 
+# 제프딘의 AI 모델의 크기와 성능에 대한 비교 
 특히 “Characterizing Emergent Phenomena in Large Language Models” 부분 참고
 https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
 
