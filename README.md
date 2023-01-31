@@ -58,7 +58,7 @@ YouCode, YouWrite, YouImagine 의 메뉴가 있고 YouWrite>chat에서 대화형
 # 한계      
 아래 파란색으로 색칠된 부분(송영숙=고려대 소속)은 사실과 다르지만 그럴 듯하게 표현되어 있음을 확인할 수 있다.    
 GPT 계열의 모델이 문장을 마치지 못하거나(catastrophic forgetting) 동어반복으로 끝나는 경우가 있는데 이러한 모습도 확인할 수 있다.     
-생성 모델이 모두 그런 것은 아니지만 GPT 모델에서 볼 수 있는 특징적 단점이라 할 수 있다.    
+항상 그런 것은 아니지만 GPT와 같은 생성 모델에서 볼 수 있는 특징적 단점이라 할 수 있다.    
     
 ![image](https://github.com/songys/Awesome_GhatGPT_News/blob/main/you_song.png)
 
