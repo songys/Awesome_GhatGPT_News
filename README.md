@@ -4,7 +4,7 @@
 # ChatGPT 사용법
 https://blog.atlaslabs.ai/chatgpt-concept/
 
-# 파라미터 사이즈등을 잘 정리한 뉴스 글
+# 파라미터 사이즈 등 ChatGPT에 대한 이해를 도울 수 있는 뉴스
 https://n.news.naver.com/article/001/0013727174
 
 # 제프딘의 AI 모델의 크디와 성능에 대한 비교 
