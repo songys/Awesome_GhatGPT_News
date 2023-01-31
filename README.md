@@ -10,6 +10,13 @@ https://n.news.naver.com/article/001/0013727174
 # 제프딘의 AI 모델의 크기와 성능에 대한 비교    
 특히 “Characterizing Emergent Phenomena in Large Language Models” 부분 참고   
 https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html   
+
+
+
+# 관련 논문
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., Hesse, C., . . .  Amodei, D. (2020). Language Models are Few-Shot Learners. ArXiv. https://doi.org/10.48550/arXiv.2005.14165
+
+
      
 # 사용에 대해 정리한 Hasan Toor의 tweet    
 https://twitter.com/hasantoxr/status/1612451452651278339    
