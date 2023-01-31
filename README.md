@@ -53,7 +53,7 @@ https://hasantoxr.gumroad.com/l/gpt
 
  # 유사한 서비스 :  you.com           
 YouCode, YouWrite, YouImagine 의 메뉴가 있고 YouWrite>chat에서 대화형 검색을 할 수 있다.      
-
+인용한 출처를 명시적으로 보여주기 때문에 사실 관계 확인이 용이하다.    
 
 # 한계      
 아래 파란색으로 색칠된 부분(송영숙=고려대 소속)은 사실과 다르지만 그럴 듯하게 표현되어 있음을 확인할 수 있다.    
