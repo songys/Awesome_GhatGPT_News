@@ -51,7 +51,16 @@ https://github.com/yaroslav-n/tweetGPT
 https://hasantoxr.gumroad.com/l/gpt  
 
 
- # 유사한 서비스 :  you.com           
+# 프롬프트 기반 사용 예시
+https://github.com/f/awesome-chatgpt-prompts
+
+ # 유사한 서비스 :  
+
+[Quiibot](https://quillbot.com/?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_premium&campaign_type=performance_max)
+Perplexity.ai
+
+
+you.com           
 YouCode, YouWrite, YouImagine 의 메뉴가 있고 YouWrite>chat에서 대화형 검색을 할 수 있다.      
 인용한 출처를 명시적으로 보여주기 때문에 사실 관계 확인이 용이하다.    
 
