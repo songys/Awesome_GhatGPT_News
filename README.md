@@ -77,4 +77,4 @@ GPT 계열의 모델이 문장을 마치지 못하거나(catastrophic forgetting
 
 
 
-![image](https://github.com/songys/Awesome_GhatGPT_News/blob/main/뤼튼_이미지.png)
+![image](https://github.com/songys/Awesome_GhatGPT_News/blob/main/뤼튼.png)
