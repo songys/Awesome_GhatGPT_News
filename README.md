@@ -71,6 +71,10 @@ GPT 계열의 모델이 문장을 마치지 못하거나(catastrophic forgetting
     
 ![image](https://github.com/songys/Awesome_GhatGPT_News/blob/main/you_song.png)
 
+
+# 이 외에 chatgpt의 한계는 다음 링크에서 참조할 수 있다.
+https://github.com/giuven95/chatgpt-failures
+
 # 한국어
 네이버 클로바팀의 뤼튼은 https://wrtn.ai/에서 무료로 사용해볼 수 있다. 한국어에 특화된 서비스답게 생동감 있는 표현들이 특징이다.
 다만 코드 리뷰등은 제공하고 있지 않다. 관련 기사는 [네이버의 생성AI는 챗GPT가 안 부럽다](https://byline.network/2023/02/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9D%98-%EC%83%9D%EC%84%B1ai%EB%8A%94-%EC%B1%97gpt%EA%B0%80-%EC%95%88-%EB%B6%80%EB%9F%BD%EB%8B%A4/?fbclid=IwAR0OOMt8hiSHO67_8QkbDwt9HZqldUFzXq2ioBT0JkHRt9gRZR2BTdUhi5k)에서 확인할 수 있다.
